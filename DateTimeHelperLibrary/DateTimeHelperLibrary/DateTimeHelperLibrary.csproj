@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+	  <PackageId>DateTimeHelperLibrary</PackageId>
+	  <Version>1.0.0</Version>
+	  <Authors>Selin</Authors>
+	  <Company>Cambrian</Company>
+	  <Description>A library for DateTime manipulations including adding days, getting formatted current date, and calculating date differences.</Description>
+	  <PackageTags>DateTime, helper, utilities</PackageTags>
+  </PropertyGroup>
+
+</Project>

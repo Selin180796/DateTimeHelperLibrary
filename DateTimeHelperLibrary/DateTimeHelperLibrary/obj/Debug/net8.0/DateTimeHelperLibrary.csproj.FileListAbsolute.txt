@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\DateTimeHelperLibrary\DateTimeHelperLibrary\DateTimeHelperLibrary\bin\Debug\net8.0\DateTimeHelperLibrary.deps.json
+C:\Users\Lenovo\source\repos\DateTimeHelperLibrary\DateTimeHelperLibrary\DateTimeHelperLibrary\bin\Debug\net8.0\DateTimeHelperLibrary.dll
+C:\Users\Lenovo\source\repos\DateTimeHelperLibrary\DateTimeHelperLibrary\DateTimeHelperLibrary\bin\Debug\net8.0\DateTimeHelperLibrary.pdb
+C:\Users\Lenovo\source\repos\DateTimeHelperLibrary\DateTimeHelperLibrary\DateTimeHelperLibrary\obj\Debug\net8.0\DateTimeHelperLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\DateTimeHelperLibrary\DateTimeHelperLibrary\DateTimeHelperLibrary\obj\Debug\net8.0\DateTimeHelperLibrary.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\DateTimeHelperLibrary\DateTimeHelperLibrary\DateTimeHelperLibrary\obj\Debug\net8.0\DateTimeHelperLibrary.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\DateTimeHelperLibrary\DateTimeHelperLibrary\DateTimeHelperLibrary\obj\Debug\net8.0\DateTimeHelperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DateTimeHelperLibrary\DateTimeHelperLibrary\DateTimeHelperLibrary\obj\Debug\net8.0\DateTimeHelperLibrary.dll
+C:\Users\Lenovo\source\repos\DateTimeHelperLibrary\DateTimeHelperLibrary\DateTimeHelperLibrary\obj\Debug\net8.0\refint\DateTimeHelperLibrary.dll
+C:\Users\Lenovo\source\repos\DateTimeHelperLibrary\DateTimeHelperLibrary\DateTimeHelperLibrary\obj\Debug\net8.0\DateTimeHelperLibrary.pdb
+C:\Users\Lenovo\source\repos\DateTimeHelperLibrary\DateTimeHelperLibrary\DateTimeHelperLibrary\obj\Debug\net8.0\ref\DateTimeHelperLibrary.dll
